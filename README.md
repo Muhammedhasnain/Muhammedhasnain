@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muhammedhasnain
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning Software Engineering from Hamdard University
   
 
 <!---
